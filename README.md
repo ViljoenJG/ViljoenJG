@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kobus Viljoen and I'm a full stack developer. My speciality is frontend development, but I am also proficient in backend development, SQL and DevOps.
+My name is __Kobus Viljoen__ and I'm a full stack developer. My speciality is frontend development, but I am also proficient in backend development, SQL and DevOps.
 
 
 
