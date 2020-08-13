@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Kobus Viljoen and I'm a full stack developer. My speciality is frontend development, but I am also proficient in backend development, SQL and DevOps.
+
+
+
 <!--
 **ViljoenJG/ViljoenJG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
